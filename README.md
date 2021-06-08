@@ -14,8 +14,8 @@ Global #banking solutions. #Blockchain #consultancy. #NFT marketplaces. Smart co
 ## Videos
 
 ## Important Links
-*DeFiSummer Devpost https://defi.devpost.com/
-*DeFiSummer Discord http://discord.gg/TAmSpBvmR2
-*DeFiSummer Twitter http://twitter.com/defisummer
-*DefiSummer Reddit https://www.reddit.com/r/DefiSummer/
-*Published Schedules https://docs.google.com/spreadsheets/d/e/2PACX-1vQQH2V2hpayBu9oRrOpZRrDxrcI4085FFlyfmNi2lQ-vWmw8r6lv2RFnlwcaGmEBGXhX_R3PyCaxReN/pubhtml
+* DeFiSummer Devpost https://defi.devpost.com/
+* DeFiSummer Discord http://discord.gg/TAmSpBvmR2
+* DeFiSummer Twitter http://twitter.com/defisummer
+* DefiSummer Reddit https://www.reddit.com/r/DefiSummer/
+* Published Schedules https://docs.google.com/spreadsheets/d/e/2PACX-1vQQH2V2hpayBu9oRrOpZRrDxrcI4085FFlyfmNi2lQ-vWmw8r6lv2RFnlwcaGmEBGXhX_R3PyCaxReN/pubhtml

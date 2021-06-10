@@ -12,12 +12,15 @@ Minority Programmers Association is proud to sponsor and announce the winners to
 Global #banking solutions. #Blockchain #consultancy. #NFT marketplaces. Smart contract development. Trading automation. Blockchain #governance. Find a team, learn how to do it, build a project, win prizes & #internships, and celebrate all summer. #DeFiSummer is a celebration, summit, and #hackathon for #decentralized finance organized by the Minority Programmers Association. Sign up today  at https://defi.devpost.com/ and join the discord http://discord.gg/TAmSpBvmR2
 
 ## Videos
-* DefiSummer KickOff Video
+* DefiSummer KickOff https://youtu.be/9Rldobm7E58
+* DefiSummer: Introduction to Blockchain & DeFi (decentralized finance) https://youtu.be/C9qImoS5S6I
+* DefiSummer: Introduction to NFTs (Non-Fungible Tokens) https://youtu.be/7ayWjEBq8Xo
 
 ## Presentations
 
 
 ## Graphics
+
 
 ## Important Links
 * DeFiSummer *Devpost* https://defi.devpost.com/
@@ -25,3 +28,12 @@ Global #banking solutions. #Blockchain #consultancy. #NFT marketplaces. Smart co
 * DeFiSummer *Twitter* http://twitter.com/defisummer
 * DefiSummer *Reddit* https://www.reddit.com/r/DefiSummer/
 * DefiSummer *Schedule* https://docs.google.com/spreadsheets/d/e/2PACX-1vQQH2V2hpayBu9oRrOpZRrDxrcI4085FFlyfmNi2lQ-vWmw8r6lv2RFnlwcaGmEBGXhX_R3PyCaxReN/pubhtml
+
+## Prize Tracks
+* Stellar Prize Track ($3000 in $XLM)
+* Enzyme Protocol Automation for Funds ($4000 in $MLN)
+* PlutoPepe Choose Your Own Adventure Governance ($1000 in $PLUTO)
+* PlutoPepe Smart Contract Game ($1000 in $PLUTO)
+* PlutoPepe NFT Meme Marketplace ($1000 in $PLUTO)
+* Minority Programmers Learning Incentivization (MPA Blockchain Engineering Internship)
+* Blockchain Consultancy (Blockchain Consultancy Internship x2 /Echelon Digital Consulting & Minority Programmers Association/

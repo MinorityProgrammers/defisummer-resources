@@ -15,6 +15,7 @@ Global #banking solutions. #Blockchain #consultancy. #NFT marketplaces. Smart co
 * DefiSummer KickOff https://youtu.be/9Rldobm7E58
 * DefiSummer: Introduction to Blockchain & DeFi (decentralized finance) https://youtu.be/C9qImoS5S6I
 * DefiSummer: Introduction to NFTs (Non-Fungible Tokens) https://youtu.be/7ayWjEBq8Xo
+* DefiSummer: Deploy a NFT on Testnet https://youtu.be/WNhW3xZDvOU
 
 ## Presentations
 

@@ -14,8 +14,10 @@ Global #banking solutions. #Blockchain #consultancy. #NFT marketplaces. Smart co
 ## Videos
 * DefiSummer KickOff https://youtu.be/9Rldobm7E58
 * DefiSummer: Introduction to Blockchain & DeFi (decentralized finance) https://youtu.be/C9qImoS5S6I
+* DefiSummer: Intro to Stellar https://youtu.be/bE99gLbZhWM
 * DefiSummer: Introduction to NFTs (Non-Fungible Tokens) https://youtu.be/7ayWjEBq8Xo
 * DefiSummer: Deploy a NFT on Testnet https://youtu.be/WNhW3xZDvOU
+* DefiSummer: How to Get Started Developing on Stellar https://youtu.be/ObwCpA_AX9Q
 
 ## Presentations
 

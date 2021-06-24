@@ -1,0 +1,17 @@
+<svg width="517" height="517" viewBox="0 0 517 517" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="517" height="517" transform="matrix(-4.6961e-08 -1 -1 4.06866e-08 517 517)" fill="url(#paint0_linear)"/>
+<rect x="95" y="216" width="48" height="135" fill="white"/>
+<rect x="191" y="216" width="48" height="136" fill="white"/>
+<rect x="143" y="169" width="48" height="47" fill="white"/>
+<rect x="286" y="216" width="48" height="136" fill="white"/>
+<rect x="239" y="169" width="47" height="47" fill="white"/>
+<rect x="334" y="169" width="48" height="47" fill="white"/>
+<rect x="382" y="211" width="48" height="48" fill="white"/>
+<rect x="334" y="259" width="48" height="47" fill="white"/>
+<defs>
+<linearGradient id="paint0_linear" x1="258.5" y1="0" x2="258.5" y2="517" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFC700"/>
+<stop offset="1" stop-color="#FF00B8"/>
+</linearGradient>
+</defs>
+</svg>

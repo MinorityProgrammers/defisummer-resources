@@ -22,6 +22,7 @@ Global #banking solutions. #Blockchain #consultancy. #NFT marketplaces. Smart co
 * DefiSummer: Adding Web3 to React dApps https://youtu.be/D4k05t2GWlM
 * DefiSummer: Intro to On-Chain Asset Management - Enzyme.Finance https://youtu.be/0XqgLUn_eN8
 * DefiSummer: eLearning & Blockchain https://youtu.be/rS_ZrIwayfA
+* DefiSummer: Uncryptd - Web3 W/ Incentivizes https://youtu.be/WVG3ZOJPSHY
 
 ## Presentations
 

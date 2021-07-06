@@ -23,6 +23,7 @@ Global #banking solutions. #Blockchain #consultancy. #NFT marketplaces. Smart co
 * DefiSummer: Intro to On-Chain Asset Management - Enzyme.Finance https://youtu.be/0XqgLUn_eN8
 * DefiSummer: eLearning & Blockchain https://youtu.be/rS_ZrIwayfA
 * DefiSummer: Uncryptd - Web3 W/ Incentivizes https://youtu.be/WVG3ZOJPSHY
+* DefiSummer: Formal Verification of DeFi Project w/ CTO of Runtime Verification https://youtu.be/Ck2WgIha6dQ
 
 ## Presentations
 

@@ -25,6 +25,7 @@ Global #banking solutions. #Blockchain #consultancy. #NFT marketplaces. Smart co
 * DefiSummer: Uncryptd - Web3 W/ Incentivizes https://youtu.be/WVG3ZOJPSHY
 * DefiSummer: Formal Verification of DeFi Project w/ CTO of Runtime Verification https://youtu.be/Ck2WgIha6dQ
 * DefiSummer: Test Driven Development w/ Solidity & Truffle https://youtu.be/5-g2JpI2z9Q
+* DefiSummer: Designing Tokenomics https://youtu.be/KCMRgK3A_Y4
 
 ## Presentations
 
@@ -47,3 +48,5 @@ Global #banking solutions. #Blockchain #consultancy. #NFT marketplaces. Smart co
 * PlutoPepe NFT Meme Marketplace ($1000 in $PLUTO)
 * Minority Programmers Learning Incentivization (MPA Blockchain Engineering Internship)
 * Blockchain Consultancy (Blockchain Consultancy Internship x2 /Echelon Digital Consulting & Minority Programmers Association/
+* Idle Integration ($2000 in $IDLE)
+* Idle Strategies ($2000 in $IDLE)

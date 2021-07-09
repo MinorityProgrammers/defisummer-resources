@@ -24,6 +24,7 @@ Global #banking solutions. #Blockchain #consultancy. #NFT marketplaces. Smart co
 * DefiSummer: eLearning & Blockchain https://youtu.be/rS_ZrIwayfA
 * DefiSummer: Uncryptd - Web3 W/ Incentivizes https://youtu.be/WVG3ZOJPSHY
 * DefiSummer: Formal Verification of DeFi Project w/ CTO of Runtime Verification https://youtu.be/Ck2WgIha6dQ
+* DefiSummer: Test Driven Development w/ Solidity & Truffle https://youtu.be/5-g2JpI2z9Q
 
 ## Presentations
 

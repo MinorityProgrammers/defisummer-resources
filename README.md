@@ -26,6 +26,7 @@ Global #banking solutions. #Blockchain #consultancy. #NFT marketplaces. Smart co
 * DefiSummer: Formal Verification of DeFi Project w/ CTO of Runtime Verification https://youtu.be/Ck2WgIha6dQ
 * DefiSummer: Test Driven Development w/ Solidity & Truffle https://youtu.be/5-g2JpI2z9Q
 * DefiSummer: Designing Tokenomics https://youtu.be/KCMRgK3A_Y4
+* DefiSummer: Building w/ Idle https://youtu.be/4dxS2A4hvIM
 
 ## Presentations
 

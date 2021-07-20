@@ -28,6 +28,7 @@ Global #banking solutions. #Blockchain #consultancy. #NFT marketplaces. Smart co
 * DefiSummer: Designing Tokenomics https://youtu.be/KCMRgK3A_Y4
 * DefiSummer: Building w/ Idle https://youtu.be/4dxS2A4hvIM
 * DefiSummer: Blockchain Consultancy https://youtu.be/bwHLMqFj25Y
+* DefiSummer: Idle DAO Explained https://youtu.be/GINXFoUcnEY
 
 ## Presentations
 

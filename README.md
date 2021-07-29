@@ -29,6 +29,9 @@ Global #banking solutions. #Blockchain #consultancy. #NFT marketplaces. Smart co
 * DefiSummer: Building w/ Idle https://youtu.be/4dxS2A4hvIM
 * DefiSummer: Blockchain Consultancy https://youtu.be/bwHLMqFj25Y
 * DefiSummer: Idle DAO Explained https://youtu.be/GINXFoUcnEY
+* DefiSummer: Introduction to LongHashX: Web 3 Accelerator: https://www.youtube.com/watch?v=miQ_AsmESEE
+* DefiSummer: LongHashX: Q&A Segment: https://www.youtube.com/watch?v=u6yaNGFxIW0
+* DefiSummer: Deploying NFTs on Bitcoin w/ Clarity https://youtu.be/XlI-VLa_J3I
 
 ## Presentations
 
